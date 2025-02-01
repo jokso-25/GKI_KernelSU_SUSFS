@@ -31,7 +31,9 @@ Follow the steps for GKI:
 # Credits
 
 - **KernelSU**: Developed by [tiann](https://github.com/tiann).
+- **KernelSU-Next**: Developed by [rifsxd](https://github.com/rifsxd/KernelSU-Next).
 - **SUSFS**: Developed by [simonpunk](https://gitlab.com/simonpunk/susfs4ksu.git).
+- **SUSFS Module**: Developed by [sidex15](https://github.com/sidex15).
 
 Special thanks to the open-source community for their contributions!
 
@@ -60,8 +62,8 @@ Flashing this kernel will void your warranty, and there is always a risk of bric
 
 ### If you need your kernel version added please let me know and I will build it!
 
-[Telegram](https://t.me/TheWildJames)  
-[Telegram Group](https://t.me/wildkernelplus)  
+[Telegram](https://t.me/TheWildJames) NO DMS PLEASE! Ask in chat below!  
+[Telegram Group](https://t.me/wildpluskernel)  
 [Build Scripts](https://github.com/TheWildJames/kernel_build_scripts)
 
 # Special thanks to the following people for their contributions!
